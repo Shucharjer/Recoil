@@ -1,4 +1,5 @@
 # Recoil
-based on logitech g hub
-only 8 of then are avaliable in the stat version
-probably u couldnt use it on most platforms like perfect world or u can run lghub with admin permission
+based on logitech ghub  
+9 guns are avaliable in the stat version  
+you can change your keys, sensitivity if you want  
+you may not fit for the keys if you are not using g502  
